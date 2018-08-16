@@ -1,0 +1,144 @@
+# Entry removed Fri Jan 19 19:30:35 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=KVGxo3PH8dw
+
+################################
+
+# Entry removed Fri Jan 26 15:49:10 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=KFG4eBCJMqk
+
+################################
+
+# Entry removed Sat Jan 27 12:20:58 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=1cpIJBprNCA
+
+################################
+
+# Entry removed Thu Feb  8 01:59:17 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=3uXHaVENo6E
+
+################################
+
+# Entry removed Fri Feb  9 21:12:44 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=8a2V6daAnEk
+
+################################
+
+# Entry removed Sat Feb 10 01:41:46 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=HUkaTKqbZYw
+
+################################
+
+# Entry removed Sat Feb 10 07:39:01 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=DsYCQ2rsTDo
+
+################################
+
+# Entry removed Sat Feb 10 08:25:01 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=G_XfCGaFr0c
+
+################################
+
+# Entry removed Fri Feb 16 09:55:32 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=-CDvJoUkyi8
+
+################################
+
+# Entry removed Fri Feb 16 13:38:11 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=OnMt-GKtw-c
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=SA8dLEBY61o
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=r2luyOmvvoE
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=y3n4Z-WC-64
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=OtekDDBbCT0
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=bkb0UMt-PSs
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=Cx__dftziT4
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=pJ2_yDkA0V8
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=ryzFQx0xli8
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=b7kWy34jyk4
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=528pS0yJkFY
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=EW_HtMoYQ_g
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=z43XVYnBmrQ
+
+################################
+
+# Entry removed Mon Feb 19 19:53:53 2018
+# Reason: ERROR: Unable to download webpage: <urlopen error [Errno 11001] getaddrinfo failed> (caused by URLError(gaierror(11001, 'getaddrinfo failed'),))
+http://www.youtube.com/watch?v=5doMB2RbS4w
+
+################################
+
+# Entry removed Wed Jun  6 22:16:13 2018
+# Reason: ERROR: Unable to download webpage: The read operation timed out (caused by timeout('The read operation timed out',))
+http://www.youtube.com/watch?v=gCW5uV9bsig
+
+################################
+
